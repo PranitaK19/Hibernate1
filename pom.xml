@@ -14,21 +14,20 @@
   </properties>
 
   <dependencies>
-  <!-- ✅ Hibernate Core (use 6.4.4.Final) -->
+ 
   <dependency>
     <groupId>org.hibernate.orm</groupId>
     <artifactId>hibernate-core</artifactId>
     <version>6.4.4.Final</version>
   </dependency>
 
-  <!-- ✅ Jakarta Persistence API -->
+ 
   <dependency>
     <groupId>jakarta.persistence</groupId>
     <artifactId>jakarta.persistence-api</artifactId>
     <version>3.1.0</version>
   </dependency>
 
-  <!-- ✅ PostgreSQL Driver -->
   <dependency>
     <groupId>org.postgresql</groupId>
     <artifactId>postgresql</artifactId>
